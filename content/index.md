@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+# My Computing Journey
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This page will go on as a continuation of my journey navigating the world of computing. Seeing how much I've learned in my previous courses, I'm excited to see where I'll be at the end of this semester. 
 
 ## Editing pages
 
@@ -39,4 +39,13 @@ You can use any text editor capable of opening and editing Markdown files.
 ## Adding new pages
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+
+## Main Categories 
+
+- [[meal preparation-01/index|meal preparation 01]]
+- [[oil history-02/index|oil history 02]]
+- [[recovery-03/index|recovery 03]]
+- [[skincare-04/index|skincare 04]]
+- [[sleep schedule-05/index|sleep schedule 05]]
+
 
